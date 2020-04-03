@@ -122,7 +122,7 @@ exports.conf = {
 };
 
 exports.help = {
-  name: 'yargı',
+  name: 'yargıı',
   description: 'Kullanıcıyı sunucudan yasaklar.',
   usage: '&2ban'
 };
